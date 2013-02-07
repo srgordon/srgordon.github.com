@@ -74,6 +74,7 @@ body {
 
 .contact-info {
     margin-top: 7px;
+    float:right;
 }
 
 #pdf {
