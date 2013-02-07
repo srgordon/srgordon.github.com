@@ -166,8 +166,10 @@ li {
 }
 
 .job h5 {
-    font-size: 100%;
-    float: right;
+    font-size: 122%;
+	float: right;
+	color: #333;
+    font-weight: normal;
 }
 
 .job p {
